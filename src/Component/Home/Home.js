@@ -21,7 +21,7 @@ const Home = props => {
         
         {name:'Maintenance Check',
         selected:false,
-        link:'expirycheck'},
+        link:'maintenancecheck'},
         
         {name:'Sensors Check',
         selected:false,
